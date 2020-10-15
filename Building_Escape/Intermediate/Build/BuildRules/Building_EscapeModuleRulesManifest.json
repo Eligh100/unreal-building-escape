@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\eligh\\Documents\\Computer Science\\Udemy Unreal Course\\unreal-building-escape\\Building_Escape\\Source\\Building_Escape\\Building_Escape.Build.cs",
+		"C:\\Users\\eligh\\Documents\\Computer Science\\Udemy Unreal Course\\unreal-building-escape\\Building_Escape\\Source\\Building_Escape.Target.cs",
+		"C:\\Users\\eligh\\Documents\\Computer Science\\Udemy Unreal Course\\unreal-building-escape\\Building_Escape\\Source\\Building_EscapeEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}
